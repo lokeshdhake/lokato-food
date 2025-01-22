@@ -1,0 +1,13 @@
+Backend Dependency:
+
+express -- This will help to creat the restfull Api for the backend. 
+mongoose -- Help in connection with database.
+jsonwebtoken -- used for authentication.
+bcrypt -- used for encrypting the data of users.
+cors -- This will give permission to frontend to connect with the backend.
+dotenv -- Using this we can use the environment variable in the project.
+body-parser -- This will parse the data comming from the user.
+multer -- This is used for image storing system.
+stripe -- Using this we will add the payment gateway.
+validator -- Using this we will validate the email and password of the user.
+nodemon -- This will restart the server whenever the project is saved.
